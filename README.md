@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @masfudindc
-- 🌱 I’m currently learning Machine Learning and Multi-Platform Application
+- 🌱 
 - ⚡ Fun fact:  Chelsea FC Fan
 
 <!---
