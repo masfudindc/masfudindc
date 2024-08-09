@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @masfudindc
-- 🌱 
+- 🌱 Currently learning on Laravel Blade Component and Svelte
 - ⚡ Fun fact:  Chelsea FC Fan
 
 <!---
